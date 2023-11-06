@@ -1,5 +1,5 @@
 
-#Task 2:
+Task 2:
 
 The theme of the dataset is surrounding the pop artist Conan Gray and his instrumental versions of songs. The site of access is MuseScore where all of the piano instrumentals are available. In addition to auido recordings being available aswell. The metadata is accessible on the website too, that shows the genre, level of difficulty, duration, how many people have accessed it and more. Period wise, Conan Gray is a modern artist, hence why there won't be much confusion of difficulty establishing origin. 
 
