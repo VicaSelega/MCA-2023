@@ -6,3 +6,6 @@ These instrumental versions are obtainable on the MuseScore platform, where a co
 
 # Task 2/3 - Types of Data: 
 My personal experience with music is very limited, given the lack of formal background in music theory, and the vast lack of technical expertise in coding, I choose to stay positive. Nonetheless, my deep-seated passion for music manifests through an extensive and diverse listening repertoire across various genres. The primary challenge I am currently facing is the lack of coding proficiency and comprehensive musical knowledge. My main current interest is the field of music distribution: Looking into the different strategies used by artists on different streaming platforms, in addition to looking into how data is being utilized for different purposes. 
+
+# Task 3.5 - More about data for this project:
+As already mentioned the metadata is mostly accessible from the [musescore](https://musescore.com/user/34004011/scores/6593619) webpage which gives access to potentially needed information, such as duration, measures, listeners where and how many times this score appears. However, more data can be accessed through the artist [spotify](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) and [youtube](https://www.youtube.com/@ConanGray): data such, as lyrics, duration and bit depth, monthly lisetners and more.
