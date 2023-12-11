@@ -12,3 +12,4 @@ The issue has been resolved and [MusicXML]
 # Verovio 
 [Verovio HTML File](verovio.html)
 ![Alt Text](IMAGES/verovio_example.png) 
+## Differences and Similarities 
