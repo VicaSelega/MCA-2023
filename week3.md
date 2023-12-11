@@ -13,3 +13,4 @@ The issue has been resolved and [MusicXML]
 [Verovio HTML File](verovio.html)
 ![Alt Text](IMAGES/verovio_example.png) 
 ## Differences and Similarities 
+- MEI is a simpler form to read and is more flexible for music encoding purposes. MusicXML is designed to exchange music notation data between software easily, both are designed for music encoding. MEI is an easier type of file to read hence more adaptable and allows more detail.  
