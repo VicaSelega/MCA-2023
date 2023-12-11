@@ -3,3 +3,8 @@ Using the created [musescore](musescore_edited_10Bars.mscz) file from last week 
 ![Alt Text](IMAGES/screenshot_failed.png) 
 
 ## Task - To be continued...
+The issue has been resolved and [MusicXML]
+*  [MEI file](Heatherfullscore.mei)
+*  [MusicXML]
+  * The files were created and issues identified, the reason Verovio would not run is due to the files being saved and uploaded incorrectly.
+  * The files should have been uploaded uncompressed - to achieve the following result see images below of the result. 
