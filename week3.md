@@ -2,4 +2,4 @@
 Using the created [musescore](musescore_edited_10Bars.mscz) file from last week for this week's activity. It was unfortunately a challenge to create a file and convert the score through the MusicXML converter (see image below) as the website wouldn’t convert the score, no matter what file was used. This result was achieved despite different types of files uploaded it simply wouldn't work. 
 ![Alt Text](IMAGES/screenshot_failed.png) 
 
-###Task Continuation - 
+## Task - To be continued...
