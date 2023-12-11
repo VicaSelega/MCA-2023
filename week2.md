@@ -1,4 +1,4 @@
-# Task: 
+# Task - Editing in Musescore: 
 
 ![Alt Text](IMAGES/1_Original_Score.png) 
 
