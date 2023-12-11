@@ -6,8 +6,9 @@ Using the created [musescore](musescore_edited_10Bars.mscz) file from last week 
 The issue has been resolved and [MusicXML]
 *  [MEI file](data/Heatherfullscore.mei)
 *  [MusicXML](data/Heatherfullscore.musicxml)
-*  [Previous week edited MusicXML File](plsworkyworky.musicxml)
+*  [Previous week edited MusicXML File](data/plsworkyworky.musicxml)
   * The files were created and issues identified, the reason Verovio would not run is due to the files being saved and uploaded incorrectly.
   * The files should have been uploaded uncompressed - to achieve the following result see images below of the result. 
 # Verovio 
+[Verovio HTML File](verovio.html)
 ![Alt Text](IMAGES/verovio_example.png) 
