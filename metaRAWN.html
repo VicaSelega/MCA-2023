@@ -1,4 +1,4 @@
-rfull<html>
+<html>
 <head>
   <title>Heather By Conan Gray</title>
   <meta charset="utf-8">
@@ -31,38 +31,7 @@ rfull<html>
           });
   </script>
   <script>
-    // Get, parse, and show TEI data
-    var CETEIcean = new CETEI()
-    CETEIcean.getHTML5("data/Heatherfullscore.musicxml", function(data) {
-      document.getElementById("TEI").appendChild(data)
-    })
-    // Get, parse and show MEI header data
-    var CETEI4MEI = new CETEI()
-    CETEI4MEI.addBehaviors({
-      namespaces: {
-        mei: "http://www.music-encoding.org/ns/mei"
-      }
-    })
-    CETEI4MEI.getHTML5("data/Heatherfullscore UPDATED.mei", function(data) {
-      // get header
-      var meiHead = data.querySelector('mei-meiHead')
-      document.getElementById("MEImeta").appendChild(meiHead)
-    })
-    var vrvToolkit = new verovio.toolkit()
-    vrvToolkit.setOptions(options = {
-        pageHeight: 500,
-        pageWidth: 1000,
-        ignoreLayout: 1,
-        border: 20,
-        scale: 50,
-        adjustPageHeight: true
-    })
-    fetch("data/data/Heatherfullscore UPDATED.mei").then(function( response ) {
-        response.text().then(function( data ) {
-          var svg = vrvToolkit.renderData(data, {})
-          document.getElementById('MEI').innerHTML = svg
-        })
-    })
+   HELLO
   </script>
 </body>
 <footer><p>Score rendering provided by <a href="http://www.verovio.org">Verovio</a>. Metadata rendered by <a href="https://github.com/TEIC/CETEIcean/"> CETEIcean</a>.</p></footer>
