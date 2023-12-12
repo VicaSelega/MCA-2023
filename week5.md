@@ -1,6 +1,7 @@
 # Task - Standards in Curation
 ### METADATA SCHEMA - what was included and what should have been included 
-To reflect on what should have been included for further metadata, see following list: 
+* The Updated [MEI](JS/Heatherfullscore(2).mei) file
+* To reflect on what should have been included for further metadata, see the following list: 
 
 Information about music-specific genres for musical objects
 Vocabulary: Popular music sh 85088865 
