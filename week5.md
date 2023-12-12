@@ -1,5 +1,6 @@
 # Task - Standards in Curation
-#### Answering the 3 questions
+#### Verovio Work Illustrated
+![Alt Text](IMAGES/thumbnail_image.png) 
 
 METADATA SCHEMA
 
