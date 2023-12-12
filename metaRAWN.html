@@ -18,7 +18,7 @@ rfull<html>
           enableDocument: true // default is true
       }
       // A MusicXML file
-      var file = 'data/example.mei';
+      var file = 'data/Heatherfullscore UPDATED.mei';
       // A MEI file
       //var file = 'https://www.verovio.org/editor/brahms.mei';
       const app = new Verovio.App(document.getElementById("app"), options);
@@ -33,7 +33,7 @@ rfull<html>
   <script>
     // Get, parse, and show TEI data
     var CETEIcean = new CETEI()
-    CETEIcean.getHTML5("data/example.xml", function(data) {
+    CETEIcean.getHTML5("data/Heatherfullscore.musicxml", function(data) {
       document.getElementById("TEI").appendChild(data)
     })
     // Get, parse and show MEI header data
