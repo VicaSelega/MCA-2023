@@ -6,7 +6,7 @@
 | - Copyright info  | - Republic Records         | - Republic Records          | - Republic Records         |
 | - Genre           | - Pop          | - Pop          | - Pop          |
 | - Source          | - Youtube.com          | - Youtube.com          | - Youtube.com          | 
-| - File            | - Item C          | - Thing Z          | - Thing X          |
+| - File            | X          | X        | X        |
 | - Nuber of Channels| - Item C          | - Thing Z          | - Thing X          |
 | - Sample rate     | - Item C          | - Thing Z          | - Thing X          |
 | - Bits per Second    | - Item C          | - Thing Z          | - Thing X          |
