@@ -1,2 +1,2 @@
 # Challenges to of Music Curation
-[UPDATED](HeatherfullscoreUPDATED.mei)
+[UPDATED MEI VERSION THROUGH VEROVIO](HeatherfullscoreUPDATED.mei)
