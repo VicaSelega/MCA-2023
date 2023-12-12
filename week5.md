@@ -9,5 +9,6 @@ Information about music-specific genres for musical objects, in this case, it is
 ![Alt Text](IMAGES/thumbnail_image.png) 
 
 #### Verovio Work Illustraed P.2
-![Alt Text](IMAGES/thumbnail_image.png) 
+* An updated version of the, Verovio MEI file screenshot from the work done
+![Alt Text](IMAGES/illustratedp2.png) 
 
