@@ -1,8 +1,14 @@
 /* Add your own CSS rules here */
+
 #description {
   margin: 0 0 1em 0;
 }
 
 tei-teiHeader {
   display: none;
+}
+
+body {
+  background-color: #000; /* Set to black */
+  color: #fff; /* Set text color to white for better contrast */
 }
