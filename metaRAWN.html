@@ -1,4 +1,4 @@
-<html>
+rfull<html>
 <head>
   <title>Heather By Conan Gray</title>
   <meta charset="utf-8">
@@ -18,7 +18,7 @@
           enableDocument: true // default is true
       }
       // A MusicXML file
-      var file = 'data/Heatherfullscore UPDATED.mei';
+      var file = 'data/example.mei';
       // A MEI file
       //var file = 'https://www.verovio.org/editor/brahms.mei';
       const app = new Verovio.App(document.getElementById("app"), options);
@@ -31,7 +31,7 @@
           });
   </script>
   <script>
-  // Get, parse, and show TEI data
+    // Get, parse, and show TEI data
     var CETEIcean = new CETEI()
     CETEIcean.getHTML5("data/example.xml", function(data) {
       document.getElementById("TEI").appendChild(data)
