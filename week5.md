@@ -1,18 +1,12 @@
 # Task - Standards in Curation
-#### Verovio Work Illustrated
-![Alt Text](IMAGES/thumbnail_image.png) 
+### METADATA SCHEMA - what was included and what should have been included 
+To reflect on what should have been included for further metadata, see following list: 
 
-METADATA SCHEMA
-
-Include:
-
-<muso:subgenre>
 Information about music-specific genres for musical objects
 Vocabulary: Popular music sh 85088865 
 Required: No
 Repeatable: Yes
 
-<muso:other_id>
 Other relevant reference identifiers for the items that are known to the scholarly community 
 and critical for discoverability (i.e. Digital Object Identifier, Short Title Catalog, composer work number, etc.), 
 should follow the format: <muso:other_id=”label”>Value</other_id>
@@ -36,3 +30,7 @@ Vocabulary: https://authorities.loc.gov/
 Required: No
 Repeatable: No
        
+#### Verovio Work Illustrated
+![Alt Text](IMAGES/thumbnail_image.png) 
+
+
