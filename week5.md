@@ -5,7 +5,9 @@
 Information about music-specific genres for musical objects, in this case, it is POP, a source of metadata is [YouTube](https://youtu.be/24u3NoPvgMw?feature=shared), it is important to mention the copyright belongs to Universal Music Group & Republic Records	and is protected by copyright.
 
        
-#### Verovio Work Illustrated
+#### Verovio Work Illustrated P.1
 ![Alt Text](IMAGES/thumbnail_image.png) 
 
+#### Verovio Work Illustraed P.2
+![Alt Text](IMAGES/thumbnail_image.png) 
 
