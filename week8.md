@@ -7,7 +7,7 @@
 | - Genre           | - Pop          | - Pop          | - Pop          |
 | - Source          | - Youtube.com          | - Youtube.com          | - Youtube.com          | 
 | - File            | X          | X        | X        |
-| - Nuber of Channels| - X          | - X          | - X          |
-| - Sample rate     | - Item C          | - Thing Z          | - Thing X          |
-| - Bits per Second    | - Item C          | - Thing Z          | - Thing X          |
-| - Duration        | - Item C          | - Thing Z          | - Thing X          |
+| - Nuber of Channels| X          |  X          | X          |
+| - Sample rate     | X          | X         | X        |
+| - Bits per Second    | X          | X          | X          |
+| - Duration        | X         | X          | X          |
