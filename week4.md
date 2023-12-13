@@ -11,6 +11,8 @@
 [week 9](week9.md)
 [week 10](week10.md)
 
+---------------------------------------------------------------------------------------------------
+
 # Required Task (2)
 ## Music21 and Python Work
 Integrating Analysis Files through [jupyter](http://localhost:8889/notebooks/Intro%20to%20music21.ipynb)  
