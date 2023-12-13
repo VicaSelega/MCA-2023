@@ -1,4 +1,11 @@
+---
+layout: default
+title: Home
+styles: /css/style.css
+---
+
 # MCA-2023
+
 [week 1](week1.md)
 [week 2](week2.md)
 [week 3](week3.md)
