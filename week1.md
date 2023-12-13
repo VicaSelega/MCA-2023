@@ -1,3 +1,16 @@
+
+# MCA-2023
+
+[week 1](week1.md)
+[week 2](week2.md)
+[week 3](week3.md)
+[week 4](week4.md)
+[week 5](week5.md)
+[week 7](week7.md)
+[week 8](week8.md)
+[week 9](week9.md)
+[week 10](week10.md)
+
 # Task - Finding a theme:
 The dataset in focus revolves around the musical contributions of the pop artist Conan Gray, who is an important pop culture figure in my life, his music is extremely relatable and comforting, and at the point of this project, his music is one of the very few subjects that make the day to day life feel okey. This project revolves specifically around his instrumental renditions of his songs, as it suits the purpose and my skill level more, to analyze it in this form. 
 
