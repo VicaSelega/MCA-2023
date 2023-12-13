@@ -11,6 +11,8 @@
 [week 9](week9.md)
 [week 10](week10.md)
 
+------------------------------------------------------------------
+
 # Task - Finding a theme:
 The dataset in focus revolves around the musical contributions of the pop artist Conan Gray, who is an important pop culture figure in my life, his music is extremely relatable and comforting, and at the point of this project, his music is one of the very few subjects that make the day to day life feel okey. This project revolves specifically around his instrumental renditions of his songs, as it suits the purpose and my skill level more, to analyze it in this form. 
 
