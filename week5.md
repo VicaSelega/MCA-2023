@@ -11,6 +11,7 @@
 [week 9](week9.md)
 [week 10](week10.md)
 
+------------------------------------------------------------
 # Task - Standards in Curation
 ### METADATA SCHEMA - what was included and what should have been included 
 * In The Updated [MEI](JS/Heatherfullscore(2).mei) file, certain points such as file description, and licensing date is missing as well as the genre of classification. 
