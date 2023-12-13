@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
-styles: /css/style.css
----
 
 # MCA-2023
 
