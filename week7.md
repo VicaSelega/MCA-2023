@@ -11,6 +11,8 @@
 [week 9](week9.md)
 [week 10](week10.md)
 
+--------------------------------------------------------------------
+
 # Challenges to Music Curation
 ## Verovio Page
 ### - [Link](metaRAWN.html) in git hub for updated verovio activity and MetaData as well as [Conan Gray Veorovio](https://vicaselega.github.io/MCA-2023/metaRAWN.html) Display Page HTML
