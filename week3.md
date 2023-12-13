@@ -1,3 +1,16 @@
+
+# MCA-2023
+
+[week 1](week1.md)
+[week 2](week2.md)
+[week 3](week3.md)
+[week 4](week4.md)
+[week 5](week5.md)
+[week 7](week7.md)
+[week 8](week8.md)
+[week 9](week9.md)
+[week 10](week10.md)
+
 # Task - MusicXML and MEI files:  
 Using the created [musescore](musescore_edited_10Bars.mscz) file from last week for this week's activity. It was unfortunately a challenge to create a file and convert the score through the MusicXML converter (see image below) as the website wouldn’t convert the score, no matter what file was used. This result was achieved despite different types of files uploaded it simply wouldn't work. 
 ![Alt Text](IMAGES/screenshot_failed.png) 
