@@ -10,6 +10,9 @@
 [week 8](week8.md)
 [week 9](week9.md)
 [week 10](week10.md)
+
+---------------------------------------------------------------------------------------
+
 # Task - Editing in Musescore: 
 
 ![Alt Text](IMAGES/1_Original_Score.png) 
