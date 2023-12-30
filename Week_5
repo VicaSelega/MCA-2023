@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>MCA-2023</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="MCA-2023" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://vicaselega.github.io/MCA-2023/week5.html" />
+<meta property="og:url" content="https://vicaselega.github.io/MCA-2023/week5.html" />
+<meta property="og:site_name" content="MCA-2023" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="MCA-2023" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"MCA-2023","url":"https://vicaselega.github.io/MCA-2023/week5.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/MCA-2023/assets/css/style.css?v=d89e2095d1afd1ebca79fc32c737894a965426c6">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/MCA-2023/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+
+      
+<h1 id="mca-2023">MCA-2023</h1>
+
+<p><a href="/MCA-2023/week1.html">week 1</a>
+<a href="/MCA-2023/week2.html">week 2</a>
+<a href="/MCA-2023/week3.html">week 3</a>
+<a href="/MCA-2023/week4.html">week 4</a>
+<a href="/MCA-2023/week5.html">week 5</a>
+<a href="/MCA-2023/week7.html">week 7</a>
+<a href="/MCA-2023/week8.html">week 8</a>
+<a href="/MCA-2023/week9.html">week 9</a>
+<a href="/MCA-2023/week10.html">week 10</a></p>
+
+<hr />
+<p>https://vicaselega.github.io/MCA-2023/verovio_inline.html</p>
+
+<h1 id="task---standards-in-curation">Task - Standards in Curation</h1>
+<h3 id="metadata-schema---what-was-included-and-what-should-have-been-included">METADATA SCHEMA - what was included and what should have been included</h3>
+<ul>
+  <li>In The Updated <a href="JS/Heatherfullscore(2).mei">MEI</a> file, certain points such as file description, and licensing date is missing as well as the genre of classification.</li>
+  <li>To reflect on what should have been included for further metadata, see the following list: 
+Information about music-specific genres for musical objects, in this case, it is POP, a source of metadata is <a href="https://youtu.be/24u3NoPvgMw?feature=shared">YouTube</a>, it is important to mention the copyright belongs to Universal Music Group &amp; Republic Records	and is protected by copyright.</li>
+</ul>
+
+<h4 id="verovio-work-illustrated-p1">Verovio Work Illustrated P.1</h4>
+<p><img src="/MCA-2023/IMAGES/thumbnail_image.png" alt="Alt Text" /></p>
+
+<h4 id="verovio-work-illustraed-p2">Verovio Work Illustraed P.2</h4>
+<ul>
+  <li>An updated version of the, Verovio MEI file screenshot from the work done
+<img src="/MCA-2023/IMAGES/illustratedp2.png" alt="Alt Text" /></li>
+</ul>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
