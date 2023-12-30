@@ -12,7 +12,7 @@
 [week 10](week10.md)
 
 ------------------------------------------------------------
-
+https://vicaselega.github.io/MCA-2023/verovio_inline.html 
 
 # Task - Standards in Curation
 ### METADATA SCHEMA - what was included and what should have been included 
