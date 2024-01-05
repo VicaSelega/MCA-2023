@@ -26,10 +26,12 @@
 | - Duration in Minutes        | 2.38         | 2.33         | 4.03          |
 
 # Sonic Visualiser
-
+## People Watching
 ![Alt Text](IMAGES/image-2.png)
-
+## Astronomy By Conan Gray
 ![Alt Text](IMAGES/astronomy.png)
-
+## Disaster By Conan Gray
 ![Alt Text](IMAGES/disaster.png)
+
+## Analysis
 
