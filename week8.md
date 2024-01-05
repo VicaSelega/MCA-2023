@@ -27,4 +27,9 @@
 
 # Sonic Visualiser
 
+![Alt Text](IMAGES/image-2.png)
+
+![Alt Text](IMAGES/astronomy.png)
+
+![Alt Text](IMAGES/disaster.png)
 
