@@ -11,4 +11,8 @@
 [week 9](week9.md)
 [week 10](week10.md)
 ------------------------------------------------------------------------
-
+# More Sonic Visualiser: 3 Panes
+![Alt Text](IMAGES/killing.png)
+![Alt Text](IMAGES/maniac.png)
+![Alt Text](IMAGES/never.png)
+![Alt Text](IMAGES/neverv.png)
