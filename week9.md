@@ -23,3 +23,12 @@
 ![Alt Text](IMAGES/never.png)
 ### Small detail observed 
 ![Alt Text](IMAGES/neverv.png)
+
+# HISTOGRAMS
+
+![Alt Text](IMAGES/neverendingsong.png)
+
+![Alt Text](IMAGES/maniac.png)
+
+![Alt Text](IMAGES/killing_me.png)
+
