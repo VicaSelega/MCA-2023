@@ -17,7 +17,7 @@
 ![Alt Text](IMAGES/killing.png)
 
 ## Maniac by Conan Gray
-![Alt Text](IMAGES/maniac.png)
+![Alt Text](IMAGES/maniac01.png)
 
 ## Never Ending Song by Conan Gray
 ![Alt Text](IMAGES/never.png)
