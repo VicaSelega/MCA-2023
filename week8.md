@@ -21,6 +21,6 @@
 | - Source          |  [Youtube.com](https://www.youtube.com/watch?v=goqqohUitmw)          | [Youtube.com](https://www.youtube.com/watch?v=9cMPFEEuh0g)          | [Youtube.com](https://www.youtube.com/watch?v=PNKxAWiu4Fc)          | 
 | - File            | Mp.3          | Mp.3        | Mp.3        |
 | - Nuber of Channels| X          |  X          | X          |
-| - Sample rate     | X          | X         | X        |
+| - Sample rate     | 43.1 HZ          | 44 HZ         | 43 Hz        |
 | - Bits per Second    | X          | X          | X          |
 | - Duration in Minutes        | 2.38         | 2.33         | 4.03          |
