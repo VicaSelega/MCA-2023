@@ -12,7 +12,14 @@
 [week 10](week10.md)
 ------------------------------------------------------------------------
 # More Sonic Visualiser: 3 Panes
+
+## Killing Me by Conan Gray
 ![Alt Text](IMAGES/killing.png)
+
+## Maniac by Conan Gray
 ![Alt Text](IMAGES/maniac.png)
+
+## Never Ending Song by Conan Gray
 ![Alt Text](IMAGES/never.png)
+### Small detail observed 
 ![Alt Text](IMAGES/neverv.png)
