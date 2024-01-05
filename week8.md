@@ -34,4 +34,4 @@
 ![Alt Text](IMAGES/disaster.png)
 
 ## Analysis
-
+As the title implies, time and frequency, these graphs illustrate how the sound frequency changes over time. 
