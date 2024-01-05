@@ -24,6 +24,8 @@
 ### Small detail observed 
 ![Alt Text](IMAGES/neverv.png)
 
+### A fun detail, a potential illustration of the whisper rough part of the song, very bright incicating 
+
 # HISTOGRAMS
 
 ![Alt Text](IMAGES/neverendingsong.png)
@@ -31,4 +33,8 @@
 ![Alt Text](IMAGES/maniac.png)
 
 ![Alt Text](IMAGES/killing_me.png)
+
+## Analysis
+
+
 
