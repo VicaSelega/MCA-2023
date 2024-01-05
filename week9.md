@@ -35,6 +35,6 @@
 ![Alt Text](IMAGES/killing_me.png)
 
 ## Analysis
-
+From the generated histograms, not much difference can be noticed, which could indicate the similarity in sound between all the songs, as they all stem from one artist and one album. Only noteworthy difference, is the sudden bursts as mentioned previously, as they could indicate pauses, or talking instead of singing.
 
 
