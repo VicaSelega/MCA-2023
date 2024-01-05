@@ -12,6 +12,7 @@
 [week 10](week10.md)
 
 ------------------------------------------------------------
+please see this link, unfortunately, a challenge did surprise, me to show this displayed such as done in the example. However, due to my page being done in markdown such is not possible, as that would mean, I have to rewrite the pages in HTML in order to connect it to a style sheet and display my work. I apologize for the inconvince. See the link below, as well as  [week_5.html](Week_5.md) for an HTML version. I hope the link works. 
 https://vicaselega.github.io/MCA-2023/verovio_inline.html 
 
 # Task - Standards in Curation
