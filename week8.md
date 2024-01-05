@@ -34,4 +34,4 @@
 ![Alt Text](IMAGES/disaster.png)
 
 ## Analysis
-As the title implies, time and frequency, these graphs illustrate how the sound frequency changes over time. 
+As the title implies, regarding time and frequency, these graphs illustrate how the sound frequency changes over time. This task provides insight and allows the gathering of information about the three different songs. They are all pop songs, and the frequent upbeat rhythm is represented in each segment. However, a specially interesting observation can be made in "Disaster," where the artist does not sing for an opening portion, and there is no backtrack playing; Conan speaks for a bit before the song actually starts, as shown in the image. For a brief period, there are no bright red colors, and after a segment, the image explodes with color. I believe this represents the point where the song actually starts.
